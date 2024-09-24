@@ -83,7 +83,7 @@ L'importance ici est surtout de comprendre de façon générale cette nouvelle t
 ## La préhistoire du Bitcoin
 <chapterId>9a94b627-5b69-5d81-9125-f1fa9b0aa6ad</chapterId>
 
-![La préhistoire du Bitcoin](https://www.youtube.com/watch?v=ljHLhTzrLsw)
+![La préhistoire du Bitcoin](https://rumble.com/embed/v552yl0/?pub=183lql)
 
 Avant que le terme "Bitcoin" ne devienne synonyme de monnaie numérique et de transformation financière, une série d'idées, d'innovations et de mouvements sociaux ont posé les bases de sa création. L'un des éléments fondamentaux de cette préhistoire du Bitcoin est le mouvement cypherpunk.
 
