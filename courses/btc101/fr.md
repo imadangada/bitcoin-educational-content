@@ -82,6 +82,7 @@ L'importance ici est surtout de comprendre de façon générale cette nouvelle t
 
 ## La préhistoire du Bitcoin
 <chapterId>9a94b627-5b69-5d81-9125-f1fa9b0aa6ad</chapterId>
+<isInPerson>true</isInPerson>
 
 ![La préhistoire du Bitcoin](https://rumble.com/embed/v552yl0/?pub=183lql)
 
