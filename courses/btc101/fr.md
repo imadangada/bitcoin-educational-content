@@ -22,8 +22,22 @@ Vous n'avez pas besoin de connaissances spécifiques pour vous lancer, la format
 # Introduction
 <partId>3cd2ac82-026c-53e1-874a-baf5842adc6d</partId>
 
+
 ## Un saut vers l'inconnu
 <chapterId>27e3fb60-4b50-556b-9e70-c4f5475c121d</chapterId>
+
+<releasePlace>Lugano, Switzerland</releasePlace>
+<professor>radio-talent</professor>
+<isOnline>true</isOnline>
+<isInPerson>true</isInPerson>
+<availableSeats>16</availableSeats>
+<liveLanguage>English</liveLanguage>
+<startDate>2024-09-28 14:00:00</startDate>
+<endDate>2024-09-30 17:00:00</endDate>
+<timeZone>Europe/Rome</timeZone>
+<addressLine1>Lugano, Switzerland</addressLine1>
+<liveUrl>https://www.youtube.com/embed/IoUldKJlL50?si=hYkPFz1EbtCny7Py</liveUrl>
+<chatUrl>https://peertube.planb.network/plugins/livechat/router/webchat/room/0f327476-b2a8-4497-8c83-6a2bec8ac2fb</chatUrl>
 
 ![Introduction](https://youtu.be/PdiL6_1wbQY)
 
