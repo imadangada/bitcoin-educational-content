@@ -1,5 +1,5 @@
-- start_date: 2024-06-12 10:30:00
-  end_date: 2024-06-12 11:30:00
+- start_date: 2024-10-12 10:30:00
+  end_date: 2024-10-12 11:30:00
   timezone: Europe/Prague
   address_line_2: Hotel DUO
   address_line_1: Prague, Czech Republic
@@ -8,7 +8,7 @@
   type: exam
   book_online: false
   book_in_person: true
-  price_dollars: 21000
+  price_dollars: 0
   available_seats: 50
   description: 5th edition of PlanB Network's B-CERT exam during Dev/hack/day 
   language: 
